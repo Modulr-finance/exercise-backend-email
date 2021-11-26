@@ -21,9 +21,11 @@ Expand on the `EmailController` to include endpoints that provide the following 
 * Delete an email
 
 You are in complete control of how those endpoints are structured however you should consider things such as
-* Appropriate HTTP Method
-* Path
-* Request and response
+* API design - appropriate HTTP methods, path, request and response
+* Testing
+* Error handling
+* Best practice spring usage
+* Clean architecture
 
 ## Assessment
 
